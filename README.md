@@ -1,2 +1,3 @@
-# bigraphs
-A Repository for Bigraphs
+# Bigraphs in Coq
+
+A Repository for Bigraphs in Coq.

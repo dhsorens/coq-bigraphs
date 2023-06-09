@@ -1,0 +1,3 @@
+[submodule "graph-theory"]
+	path = graph-theory
+	url = https://github.com/coq-community/graph-theory.git
